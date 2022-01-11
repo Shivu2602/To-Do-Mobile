@@ -1,0 +1,124 @@
+@media screen and (max-width: 420px) {
+    /* .mobile{
+           display: flex;
+           justify-content: center;
+           flex-direction: column;
+           height: 100%;
+           width: 90%;
+           margin: 5%;
+           flex-flow: column wrap;
+      } */
+  .parent{
+      filter: blur(8px);
+  }
+  .page1{
+    width: 80vw;
+    height: 100vh;
+  }
+    .add,
+    .ct,
+    .pen,
+    .pendings,
+    .hr1,
+    .hr2 {
+      display: none;
+    }
+  
+    .list {
+      display: inline;
+      font-weight: bolder;
+      font-size: 10vw;
+      color: #222222ea;
+      position: relative;
+      left: -561px;
+      top: -7px;
+    }
+    .lis {
+      display: inline;
+      font-weight: lighter;
+      font-size: 10vw;
+      color: grey;
+      position: relative;
+      top: 0px;
+      left: 3px;
+    }
+
+    
+  
+    .container {
+      display: inline;
+      position: relative;
+      left: -350px;
+      /* display: flex;
+          flex-flow: column;
+          justify-content: flex-end;
+          align-items: flex-start;
+          align-items: flex-start;
+          text-align: center; */
+    }
+    .box1 {
+      position: relative;
+      top: 10px;
+      left: 362px;
+      width: 300px;
+      height: 70px;
+    }
+    .box2 {
+      position: relative;
+      top: 20px;
+      left: 362px;
+      width: 300px;
+      height: 70px;
+    }
+    .box3 {
+      position: relative;
+      top: 30px;
+      left: 362px;
+      width: 300px;
+      height: 70px;
+    }
+    .box4 {
+      position: relative;
+      left: 362px;
+      top: 40px;
+      width: 300px;
+      height: 70px;
+    }
+    .box5 {
+      position: relative;
+      left: 362px;
+      top: 50px;
+      width: 300px;
+      height: 70px;
+    }
+    .box6 {
+      position: relative;
+      left: 362px;
+      top: 60px;
+      width: 300px;
+      height: 70px;
+    }
+    .num {
+      color: rgb(255, 105, 123);
+      display: inline;
+      position: relative;
+      left: 10px;
+    }
+    /*  */
+
+    .ad{
+        background-color: white;
+        border: 2px solid red;
+        width: 79vw;
+        height: 147px;
+        position: relative;
+        left: 0px;
+        top: 171px;
+
+    }
+    #text{
+        width: 153px;
+        height: 10px;
+    }
+  }
+  

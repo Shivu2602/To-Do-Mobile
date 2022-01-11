@@ -1,0 +1,98 @@
+body{
+    background-color: whitesmoke;
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.page2{
+    background-color: white;
+    width: 1400px;
+    height: 600px;
+    position: relative;
+    top: 50px;
+    left: 52px;
+    align-items: center;
+
+}
+.pari{
+    text-align: center;
+    position: relative;
+    top: 50px;
+    font-size: 50px;
+}
+
+.hr1{
+   position: relative;
+   top: 110px;
+   right: 320px;
+   width: 350px;
+
+}
+.hr2{
+    position: relative;
+    width: 350px;
+    left: 320px;
+    top: -10px;
+}
+
+.back{
+    text-align: center;
+    position: relative;
+    top: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    color: lightgray;
+}
+.material-icons{
+    color: red;
+    position: relative;
+    top: -8px;
+    left: 610px;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    /* justify-content: center; */
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 10px;
+    height: 40vh;
+    width: 20vw;
+    /* align-items: center; */
+    align-content: flex-start;
+    margin-top: 20px;
+    margin-left: 520px;
+    }
+  .trip{
+      color: red;
+      font-size: 25px;
+      font-weight: bold;
+  }  
+.hr3{
+    width: 220px;
+    position: relative;
+    top: -20px;
+    left: 40px;
+}
+.ct{
+    color: red;
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+}
+.pendings{
+    position: relative;
+    top: 18px;
+    left: 18px;
+}
+.pen{
+    position: relative;
+    left: -40px;
+    font-size: 20px;
+}
+i{
+    float: right;
+    margin-right: 1180px;
+    margin-top: -35px;
+}

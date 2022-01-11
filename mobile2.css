@@ -1,0 +1,52 @@
+@media screen and (min-width: 320px) and (max-width: 420px){
+    .mob{
+       background-color: white;
+       /* width: 100%;
+       height: 50%; */
+       margin: 0%;
+       position: fixed;
+    }
+    .hr1, .hr2, .back{
+        display: none;
+    }
+    .pari{
+        position: relative;
+        left: -585px;
+        top: -18px;
+        font-size: 32px;
+          
+    }
+    .b{
+        position: relative;
+        left: -619px;
+        top: -58px;
+        font-size: 20px;
+    }
+    .box{
+        /* text-align: center; */
+        position: relative;
+        top: -50px;
+        left: -492px;
+        width: 50vw;
+        height: 55vh;
+    }
+    .hr3{
+        position: relative;
+        left: 20px;
+        width: 72%;
+    }
+    .pen{
+        position: relative;
+        left: 10px;
+    }
+    .ct{
+        position: relative;
+        left: 10px;
+    }
+    .ad{
+        position: relative;
+        left: -621px;
+        top: -63px;
+
+    }
+}
